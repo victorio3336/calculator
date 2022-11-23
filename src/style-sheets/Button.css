@@ -1,0 +1,19 @@
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 38px;
+  background-color: gray;
+  color: white;
+  border-radius: 35%;
+  margin: 5px;
+  height: 85px;
+  cursor: pointer;
+  user-select: none;
+  flex: 1 1;
+}
+
+.operator {
+  background-color: orange;
+}
